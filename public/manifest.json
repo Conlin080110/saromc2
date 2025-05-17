@@ -1,0 +1,9 @@
+{
+  "short_name": "SaeromBoard",
+  "name": "새롬고 자유게시판",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d63384",
+  "background_color": "#ffffff",
+  "icons": []
+}
